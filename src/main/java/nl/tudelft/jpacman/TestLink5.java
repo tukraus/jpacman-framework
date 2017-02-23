@@ -1,0 +1,1 @@
+npc/ghost/Inky.java
